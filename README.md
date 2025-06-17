@@ -15,7 +15,7 @@ The dashboard was built using the following tools and technologies:
 
 🧹 Power Query – Performed data transformation, type conversion, and cleansing.
 
-🗃️ Microsoft SQL Server – Queried and joined over 200,000 loan records, leveraging views and complex joins.
+🗃️ Python – Performed EDA, 5-Number summary, and co-relation analysis.
 
 🔄 DirectQuery Mode – Ensured near real-time analytics with incremental refresh capabilities.
 
