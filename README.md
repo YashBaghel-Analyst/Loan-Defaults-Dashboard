@@ -68,9 +68,4 @@ Customer Profile Filter Panel
 Slicers for filtering by employment length, income range, and education level.
 
 💡 Business Impact & Insights
-Risk Reduction: Found that borrowers with co-signers had 52% fewer defaults in high-DTI segments.
-
-Policy Optimization: Data suggests revisiting interest rate strategies for personal loans in certain income brackets.
-
-Compliance & Reporting: Provides actionable insights for compliance teams.
-
+For insigets check Loans Defaults Report.
