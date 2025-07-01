@@ -11,7 +11,7 @@ The dashboard was built using the following tools and technologies:
 
  Power BI Desktop – Used to create dynamic visuals, KPIs, and interactive filters.
 
- DAX (Data Analysis Expressions) – Used for calculated fields, risk segmentation logic, and what-if analysis.
+ DAX (Data Analysis Expressions) – Used for calculated fields, risk segmentation logic.
 
  Power Query – Performed data transformation, type conversion, and cleansing.
 
@@ -25,7 +25,7 @@ The dashboard was built using the following tools and technologies:
  Data Source
 Internal Bank Loan Data (synthetic for privacy):
 • 200,000+ loan applications with attributes including: credit score, debt-to-income ratio (DTI), co-signer status, employment length, loan type, interest rate, and default status.
-• Time period: 2019–2023
+• Time period: 2013-2018.
 • Includes default history, repayment timelines etc.
 
 
@@ -45,7 +45,7 @@ Supports strategy planning around credit risk, co-signer policies, and interest 
 Enables risk mitigation through interactive segmentation
 
 • Walkthrough of Key Visuals
-Key Metrics (Top Panel)
+Key Metrics 
 
 Total Applications: 255,000+
 
