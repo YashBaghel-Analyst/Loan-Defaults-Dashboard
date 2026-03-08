@@ -1,6 +1,5 @@
 # Loan-Defaults-Dashboard
 
-## Recommended Structure and Order
 
 ### 1. Project Title / Headline
 **Credit Risk Insights: Loan Default Analysis Dashboard**
