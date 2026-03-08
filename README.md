@@ -1,11 +1,11 @@
 # Loan-Defaults-Dashboard
 
 
-### 1. Project Title / Headline
+### 1. Project Title 
 **Credit Risk Insights: Loan Default Analysis Dashboard**
 An interactive Power BI dashboard designed to uncover key drivers of loan defaults across a large customer base—focusing on risk segmentation, borrower behavior, and strategic decision-making for financial institutions.
 
-### 2. Short Description / Purpose
+### 2. Short Description 
 The Loan Default Analysis Dashboard provides a data-driven approach to understanding and reducing loan default risks. Built using Power BI, SQL, and DAX, it helps banks, lenders, and financial analysts identify risky borrower segments and optimize lending strategies.
 
 ### 3. Tech Stack
